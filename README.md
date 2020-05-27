@@ -1,2 +1,3 @@
-# cassandra_related
+# Cassandra Related
+
 Apache Cassandra Notes and related information
